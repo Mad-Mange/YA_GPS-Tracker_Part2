@@ -2,7 +2,7 @@ import json
 
 #### Refactoring, update from tests_result.txt
 ## use regular expression to cath results from tests.py
-firmware = '1.123'
+firmware = '1.001'
 unittest = '100'
 integrationtest = '95'
 performancetest : '00'
